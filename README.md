@@ -1,4 +1,4 @@
-# 377_InstalaCAoConfiguraCAoGitHubCopilotVSCode
+# 378_InstalacaoConfiguracaoGitHubCopilotVSCode
 Instalação e Configuração do GitHub Copilot com o VS Code
 
 
